@@ -11,9 +11,9 @@ Customer traffic is the most relevant KPI for mall managers, and we use it as th
 ## Methodology
 Build ML models to predict 7 key metrics of mall related to traffic:
 
-Daily mall traffic
-Total visit
-Total traffic of stores in 5 different categories
+1. Daily mall traffic
+2. Total visit
+3. Total traffic of stores in **5 different categories**
 
 ## File Description
 CASE_GROUP_PREDICT_SAMPLE: Used to build and train ML models. File contains all independent variables and the 7 dependent variables.
